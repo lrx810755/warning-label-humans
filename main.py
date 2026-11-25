@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 
 # The safety warning label that should come printed on every human being.
+# One line, 102 characters, within the 160 character limit.
 WORD = "WARNING: This human will ignore all instructions, blame the Wi-Fi, and ask the AI to redo it at 2 a.m."
 
 
